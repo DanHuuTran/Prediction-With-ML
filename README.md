@@ -34,7 +34,7 @@ The key fields are in train.csv are:
 
 
 ## Project goals
-The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices. The higher the RMSLE, the better the predictions.
+The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices. The lower the RMSLE, the better the predictions.
 
 
 
@@ -45,5 +45,6 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 ## Acknowdlegdements
 This project was completed following a data bootcamp course on [Udemy](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=KEEPLEARNING), with customizations implemented by me throughout the process.
+
 Happy coding!
 
